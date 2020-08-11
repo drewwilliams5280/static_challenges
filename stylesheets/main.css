@@ -1,0 +1,50 @@
+p {
+  padding: 20px;
+  color: white;
+  background-color: 262626;
+  text-align: left;
+}
+
+h2 {
+  color: white;
+  background-color: black;
+  padding: 20px;
+  font-family: Arial;
+}
+
+h3 {
+  color: white;
+  font-family: Arial;
+  padding:20px;
+}
+
+a {
+  color:white;
+  padding: 100px;
+  margin:50px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-left {
+  position: absolute;
+  top: 28px;
+  left: 66px;
+  font-family: Arial;
+  font-size: 30px;
+}
+
+.row {
+  background-color: AliceBlue;
+  display: flex;
+  padding: 20px;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 20px;
+}
